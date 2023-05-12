@@ -1,4 +1,3 @@
-// index.html
 import { useState } from 'react';
 
 function Header({ title }) {
